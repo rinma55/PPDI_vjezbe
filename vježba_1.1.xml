@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Marin</ime>
+    <prezime>Šilović</prezime>
+    <godinaRođenja>2004-03-25</godinaRođenja>
+    <jmbg>0246114447</jmbg>
+    <godinaStudija>2</godinaStudija>
+    <studijskiProgram>Informatički Dizajn</studijskiProgram>
+    <ulica>Kikićeva 17</ulica>
+    <grad>Zagreb</grad>
+    <poštanskiBroj>10000</poštanskiBroj>
+</student>
