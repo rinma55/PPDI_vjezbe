@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+    <Ime>Marin</Ime>
+    <Prezime>Šilović</Prezime>
+    <JMBG>0246114447</JMBG>
+    <DatumRodjenja>2004-03-25</DatumRodjenja>
+    <GodinaStudija>2</GodinaStudija>
+    <Kontakt>
+        <Email>msilovic@tvz.hr</Email>
+        <Telefon>+385955024400</Telefon>
+    </Kontakt>
+    <Kolegiji>
+        <Kolegij>
+            <Naziv>Inovacije u informatici</Naziv>
+            <Profesor>Ana Marinović</Profesor>
+            <ECTS>4</ECTS>
+        </Kolegij>
+        <Kolegij>
+            <Naziv>Matematika 2</Naziv>
+            <Profesor>Tihana Strmečki</Profesor>
+            <ECTS>6</ECTS>
+        </Kolegij>
+        <Kolegij>
+            <Naziv>Podatkovna povezanost i digitalna infrastruktura</Naziv>
+            <Profesor>Alen Šimec</Profesor>
+            <ECTS>5</ECTS>
+        </Kolegij>
+    </Kolegiji>
+</Student>
